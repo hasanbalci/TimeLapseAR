@@ -1,0 +1,9 @@
+Chair720 startpixel = [376, 599]; 
+
+energyThreshold = 100;
+slopeThreshold = 0.45 or 0.6;
+
+sunZenith = 57.78;   
+sunAzimuth = 163.3;
+
+frameCount = 279;

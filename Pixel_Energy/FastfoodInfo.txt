@@ -1,0 +1,9 @@
+FastFood720 startpixel = [475, 331]; 
+
+energyThreshold = 100;
+slopeThreshold = 0.5;
+
+sunZenith = 42;   
+sunAzimuth = 170.55;
+
+frameCount = 198;

@@ -1,0 +1,10 @@
+Chair360 startPixel = [286, 515];
+Chair720 startpixel = [572, 1031]; 
+
+energyThreshold = 100;
+slopeThreshold = 0.35;
+
+sunZenith = 45;   
+sunAzimuth = 349;
+
+frameCount = 614;

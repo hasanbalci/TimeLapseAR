@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c0efdcb9906be6649ab33b33e879e44c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gizmoMaterial: {fileID: 2100000, guid: ea06f10652d7eae409f446f7a8a89613, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
